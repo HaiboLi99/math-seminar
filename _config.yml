@@ -30,8 +30,8 @@ description: "Academic webpage of Dr. Richard Feynman"
 # When deploying with the included GitHub Actions workflow these are filled
 # in automatically from your Pages settings (user site, project site, or
 # custom domain). Set them only if you host the site somewhere else.
-url: ""
-baseurl: ""
+url: "https://haiboli99.github.io"
+baseurl: "math-seminar"
 
 # Analytics -- fill in whichever service you use; leave the rest blank.
 analytics:
