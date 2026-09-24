@@ -1,0 +1,64 @@
+// =============================================================
+// Seminar schedule table
+// =============================================================
+
+.schedule-table-wrapper {
+  width: 100%;
+  overflow-x: auto;
+}
+
+.schedule-table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+
+  th,
+  td {
+    padding: var(--space-4) var(--space-5);
+    text-align: left;
+    vertical-align: top;
+    border-bottom: 1px solid var(--border-color);
+    line-height: 1.6;
+  }
+
+  th {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    background-color: var(--bg-secondary);
+  }
+
+  td {
+    font-size: 1.2rem;
+    color: var(--text-secondary);
+  }
+
+  th:nth-child(1),
+  td:nth-child(1) {
+    width: 20%;
+  }
+
+  th:nth-child(2),
+  td:nth-child(2) {
+    width: 25%;
+  }
+
+  th:nth-child(3),
+  td:nth-child(3) {
+    width: 55%;
+  }
+
+  tr:last-child td {
+    border-bottom: none;
+  }
+
+  @media (max-width: 768px) {
+    min-width: 720px;
+
+    th,
+    td {
+      padding: var(--space-3) var(--space-4);
+    }
+  }
+}

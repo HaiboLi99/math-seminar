@@ -8,10 +8,11 @@
 body {
   font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI',
     Roboto, sans-serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
   line-height: 1.75;
   font-optical-sizing: auto;
 }
+
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Source Serif 4', 'Georgia', 'Times New Roman', serif;
@@ -42,11 +43,11 @@ h4 { font-size: 1.125rem; }
 p {
   color: var(--text-secondary);
   margin-bottom: var(--space-4);
-  max-width: 65ch;
+  max-width: 85ch;
 }
 
 li {
-  max-width: 65ch;
+  max-width: 85ch;
 }
 
 strong, b {
