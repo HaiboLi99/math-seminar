@@ -8,11 +8,11 @@ permalink: /
 School of Mathematics and Statistics, Huazhong University of Science and Technology
 
 <div class="chip-container" markdown="0">
-<a href="{{ '/about' | relative_url }}" class="chip">Applied Mathematics</a>
-<a href="{{ '/about' | relative_url }}" class="chip">Numerical Analysis</a>
-<a href="{{ '/about' | relative_url }}" class="chip">Scientific Computing</a>
-<a href="{{ '/about' | relative_url }}" class="chip">Artificial Intelligence</a>
-<a href="{{ '/about' | relative_url }}" class="chip">Interdisciplinary Research</a>
+<span class="chip">Applied Mathematics</span>
+<span class="chip">Numerical Analysis</span>
+<span class="chip">Scientific Computing</span>
+<span class="chip">Artificial Intelligence</span>
+<span class="chip">Interdisciplinary Research</span>
 </div>
 
 The Mathematics Seminar at HUST aims to provide a forum for researchers, graduate students, and faculty members,to present and discuss recent developments in applied mathematics, scientific computing and related areas.
@@ -20,6 +20,19 @@ The Mathematics Seminar at HUST aims to provide a forum for researchers, graduat
 The seminar aims to promote communication across different areas of mathematics,
 encourage interaction between theory and computation, and create opportunities
 for researchers and students to exchange ideas on current mathematical problems.
+
+
+<div class="callout callout-success" markdown="0">
+<div class="callout-title">
+{% include icon.html name="calendar" class="callout-icon" %}
+Organizers
+</div>
+<p>
+Everyone interested in the seminar is warmly welcome to attend or contribute a talk.
+If you would like to participate or give a presentation, please contact <a href="https://haiboli99.github.io/" target="_blank" rel="noopener noreferrer">Haibo Li</a>.
+</p>
+</div>
+
 
 ## Seminar Information
 
@@ -35,16 +48,3 @@ Seminar materials, lecture slides, notes, and related resources can be found on 
 [Resources]({{ '/resources/' | relative_url }}) page.
 
 </div>
-
-<div class="callout callout-success" markdown="0">
-<div class="callout-title">
-{% include icon.html name="calendar" class="callout-icon" %}
-Organizers
-</div>
-<p>
-Everyone interested in the seminar is warmly welcome to attend or contribute a talk.
-If you would like to participate or give a presentation, please contact <a href="https://haiboli99.github.io/" target="_blank" rel="noopener noreferrer">Haibo Li</a>.
-</p>
-</div>
-
-
