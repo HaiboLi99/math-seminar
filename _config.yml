@@ -1,11 +1,11 @@
 # ============================================================
 # STEP 1: Your Identity (required)
 # ============================================================
-name: "Richard Feynman"
-title: "Professor of Physics"
-institution: "California Institute of Technology"
-email: richard@university.edu
-photo: headshot.jpg  # place your photo in images/
+name: "Mathematics Seminar"
+title: "Mathematics Seminar"
+institution: "Your Institution"
+email: ""
+photo: ""
 
 # ============================================================
 # STEP 2: Your Links (optional -- leave blank to hide an icon)
