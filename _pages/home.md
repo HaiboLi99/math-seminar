@@ -35,13 +35,13 @@ Everyone interested in the seminar is warmly welcome to attend or contribute a t
 
 <div class="section-card">
 
-Upcoming seminar talks, speakers, dates, and topics are listed on the
+- Upcoming seminar talks, speakers, dates, and topics are listed on the
 [Schedule](<{{ '/schedule/' | relative_url }}>) page.
 
-Previous seminars and related materials are collected in the
+- Previous seminars and related materials are collected in the
 [Archive](<{{ '/archive/' | relative_url }}>) page.
 
-A selection of papers, lecture notes, books, journals, and other useful references is available on the
+- A selection of papers, lecture notes, books, journals, and other useful references is available on the
 [Resources](<{{ '/resources/' | relative_url }}>) page.
 
 </div>
