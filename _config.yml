@@ -1,7 +1,7 @@
 # ============================================================
 # STEP 1: Your Identity (required)
 # ============================================================
-name: "Mathematics Seminar"
+name: "Math Seminar"
 title: "Mathematics Seminar"
 institution: "HUST"
 email: "haibolee1729@gmail.com"
@@ -41,11 +41,11 @@ analytics:
 # Each name is a page in _pages/. Add `label: Papers` to change the
 # navbar text without changing the URL.
 nav_pages:
-  - name: about
-    label: About
-
   - name: schedule
     label: Schedule
+
+  - name: archive
+    label: Archive
 
   - name: resources
     label: Resources

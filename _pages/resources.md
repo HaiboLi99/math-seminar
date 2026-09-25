@@ -13,8 +13,8 @@ permalink: /resources/
 Selected notes, lecture materials, papers, and other resources related to the seminar.
 
 <ul>
-  <li><a href="https://doi.org/10.1137/24M1699589" target="_blank" rel="noopener noreferrer">K. Hall-Hooper et al. Efficient iterative methods for hyperparameter estimation in large-scale linear inverse problems. Adv. Comput. Math., 2024.</a></li>
-  <li><a href="https://doi.org/10.1137/21M1401243" target="_blank" rel="noopener noreferrer">N. Chada et al. A data-adaptive RKHS prior for Bayesian learning of kernels in operators. J. Mach. Learn. Res., 2024.</a></li>
+  <li><a href="https://doi.org/10.1007/s10444-024-10208-6" target="_blank" rel="noopener noreferrer">K. Hall-Hooper et al. Efficient iterative methods for hyperparameter estimation in large-scale linear inverse problems. Adv. Comput. Math., 2024.</a></li>
+  <li><a href="https://jmlr.org/papers/v25/22-1491.html" target="_blank" rel="noopener noreferrer">N. Chada et al. A data-adaptive RKHS prior for Bayesian learning of kernels in operators. J. Mach. Learn. Res., 2024.</a></li>
   <li><a href="https://doi.org/10.1137/17M1137218" target="_blank" rel="noopener noreferrer">D. Brown et al. Low-Rank Independence Samplers in Hierarchical Bayesian Inverse Problems. SIAM/ASA J. Uncertain. Quantif., 2018.</a></li>
   <li><a href="https://doi.org/10.1137/25M1731320" target="_blank" rel="noopener noreferrer">T. Gyger et al. Iterative Methods for Full-Scale Gaussian Process Approximations for Large Spatial Data. SIAM/ASA J. Uncertain. Quantif., 2026.</a></li>
   <li><a href="https://doi.org/10.48550/arXiv.2011.13456" target="_blank" rel="noopener noreferrer">Y. Song et al. Score-Based Generative Modeling through Stochastic Differential Equations. ICLR, 2021.</a></li>

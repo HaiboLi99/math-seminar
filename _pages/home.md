@@ -4,7 +4,7 @@ layout: homelay
 permalink: /
 ---
 
-<h1 class="home-hero">{{ site.name }}</h1>
+<h1 class="home-hero">{{ site.title }}</h1>
 School of Mathematics and Statistics, Huazhong University of Science and Technology
 
 <div class="chip-container" markdown="0">
@@ -17,9 +17,7 @@ School of Mathematics and Statistics, Huazhong University of Science and Technol
 
 The Mathematics Seminar at HUST aims to provide a forum for researchers, graduate students, and faculty members,to present and discuss recent developments in applied mathematics, scientific computing and related areas.
 
-The seminar aims to promote communication across different areas of mathematics,
-encourage interaction between theory and computation, and create opportunities
-for researchers and students to exchange ideas on current mathematical problems.
+The seminar aims to promote communication across different areas of mathematics, encourage interaction between theory and computation, and create opportunities for researchers and students to exchange ideas on current mathematical problems.
 
 
 <div class="callout callout-success" markdown="0">
@@ -28,8 +26,7 @@ for researchers and students to exchange ideas on current mathematical problems.
 Organizers
 </div>
 <p>
-Everyone interested in the seminar is warmly welcome to attend or contribute a talk.
-If you would like to participate or give a presentation, please contact <a href="https://haiboli99.github.io/" target="_blank" rel="noopener noreferrer">Haibo Li</a>.
+Everyone interested in the seminar is warmly welcome to attend or contribute a talk. If you would like to participate, please contact <a href="https://haiboli99.github.io/" target="_blank" rel="noopener noreferrer">Haibo Li</a>.
 </p>
 </div>
 
@@ -38,13 +35,13 @@ If you would like to participate or give a presentation, please contact <a href=
 
 <div class="section-card">
 
-For more information about the seminar, its scope, participation, and organization,
-please visit the [About]({{ '/about/' | relative_url }}) page.
+Upcoming seminar talks, speakers, dates, and topics are listed on the
+[Schedule](<{{ '/schedule/' | relative_url }}>) page.
 
-Information about upcoming talks, speakers, dates, and seminar topics is available
-on the [Schedule]({{ '/schedule/' | relative_url }}) page.
+Previous seminars and related materials are collected in the
+[Archive](<{{ '/archive/' | relative_url }}>) page.
 
-Seminar materials, lecture slides, notes, and related resources can be found on the
-[Resources]({{ '/resources/' | relative_url }}) page.
+A selection of papers, lecture notes, books, journals, and other useful references is available on the
+[Resources](<{{ '/resources/' | relative_url }}>) page.
 
 </div>
