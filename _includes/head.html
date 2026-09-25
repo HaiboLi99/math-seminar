@@ -67,16 +67,15 @@
     "name": "{% if page.title %}{{ page.title | escape }}{% else %}{{ site.name | escape }}{% endif %}",
     "url": "{{ page.url | absolute_url }}",
     "description": "{{ site.description | escape }}",
-    "author": {
-      "@type": "Person",
-      "name": "{{ site.name | escape }}",
-      "jobTitle": "{{ site.title | escape }}",
-      "affiliation": {
-        "@type": "Organization",
-        "name": "{{ site.institution | escape }}"
-      }{% if site.links.google_scholar and site.links.google_scholar != "" %},
-      "sameAs": ["{{ site.links.google_scholar }}"{% if site.links.github and site.links.github != "" %}, "{{ site.links.github }}"{% endif %}{% if site.links.orcid and site.links.orcid != "" %}, "{{ site.links.orcid }}"{% endif %}]{% endif %}
-    }
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "{{ site.title | escape }}",
+      "url": "{{ '/' | absolute_url }}"
+    },
+    "publisher": {
+      "@type": "Organization",
+    " name": "School of Mathematics and Statistics, Huazhong University of Science and Technology"
+    }   
   }
   </script>
 </head>
