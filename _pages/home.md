@@ -5,6 +5,7 @@ permalink: /
 ---
 
 <h1 class="home-hero">{{ site.title }}</h1>
+
 School of Mathematics and Statistics, Huazhong University of Science and Technology
 
 <div class="chip-container" markdown="0">
