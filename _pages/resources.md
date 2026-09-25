@@ -54,7 +54,7 @@ Selected notes, lecture materials, papers, and other resources related to the se
 
 Useful journals in applied mathematics, numerical analysis, scientific computing, and machine learning.
 
-#### Applied/Computational Mathematics
+### Applied/Computational Mathematics
 - [Acta Numerica](https://www.cambridge.org/core/journals/acta-numerica) ; 
   [SIAM Series](https://epubs.siam.org/) ; 
   [Foundations of Computational Mathematics](https://www.springer.com/journal/10208); 

@@ -17,7 +17,7 @@ School of Mathematics and Statistics, Huazhong University of Science and Technol
 
 The Mathematics Seminar at HUST aims to provide a forum for researchers, graduate students, and faculty members, to present and discuss recent developments in applied mathematics, scientific computing and related areas.
 
-The seminar aims to promote communication across different areas of mathematics, encourage interaction between theory and computation, and create opportunities for researchers and students to exchange ideas on current mathematical problems.
+It also serves as a platform for students and researchers to develop shared research interests through regular talks, discussions, and reading activities.
 
 
 <div class="callout callout-success" markdown="0">
