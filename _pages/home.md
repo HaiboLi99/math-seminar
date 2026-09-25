@@ -15,7 +15,7 @@ School of Mathematics and Statistics, Huazhong University of Science and Technol
 <span class="chip">Interdisciplinary Research</span>
 </div>
 
-The Mathematics Seminar at HUST aims to provide a forum for researchers, graduate students, and faculty members, to present and discuss recent developments in applied mathematics, scientific computing and related areas.
+The Mathematics Seminar at HUST aims to provide a forum for researchers, graduate students, and faculty members to present and discuss recent developments in applied mathematics, scientific computing, and related areas.
 
 It also serves as a platform for students and researchers to develop shared research interests through regular talks, discussions, and reading activities.
 
